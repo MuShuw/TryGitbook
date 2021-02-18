@@ -1,10 +1,13 @@
 # Table of contents
 
 * [Initial page Try](README.md)
-* [Untitled](untitled-1.md)
 
 ## GroupTry
 
+* [Random](grouptry/random.md)
 * [Untitled](grouptry/untitled/README.md)
-  * [Untitled](grouptry/untitled/untitled.md)
+  * [AAA](grouptry/untitled/aaa.md)
+  * [BBB](grouptry/untitled/bbb.md)
+  * [CCC](grouptry/untitled/untitled.md)
+* [Untitled](grouptry/untitled-1.md)
 
